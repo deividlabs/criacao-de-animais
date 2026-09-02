@@ -1,124 +1,200 @@
 # 🐝 Abelha Jataí (*Tetragonisca angustula*)
 
-![Abelha Jataí](https://commons.wikimedia.org/wiki/Special\:Redirect/file/Tetragonisca%20angustula.JPG)
+![Abelha Jataí](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tetragonisca_angustula.JPG)
 
 ## Introdução
 
-A **abelha Jataí**, denominada cientificamente *Tetragonisca angustula* (Latreille, 1811), é uma espécie de **abelha nativa sem ferrão** pertencente à família **Apidae** e à tribo **Meliponini**. É uma das espécies de abelhas-sem-ferrão mais conhecidas no Brasil, apresentando ampla distribuição e capacidade de adaptação a diferentes ambientes. A classificação taxonômica de *Tetragonisca angustula* é registrada pelo **National Center for Biotechnology Information (NCBI)** ([NCBI, 2026](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=166442)).
+A **abelha Jataí**, conhecida cientificamente como *Tetragonisca angustula* (Latreille, 1811), é uma espécie de **abelha nativa sem ferrão** pertencente à família Apidae e à tribo Meliponini. É uma espécie de pequeno porte e apresenta ampla distribuição pela América Central e América do Sul, incluindo diferentes regiões do Brasil. Sua classificação taxonômica é reconhecida por bases científicas como o National Center for Biotechnology Information (NCBI).
 
-A Jataí apresenta pequeno porte e é facilmente reconhecida por seu corpo predominantemente escuro, com regiões amareladas. Assim como outras espécies de Meliponini, possui o **ferrão atrofiado e não funcional**, característica que faz com que seja conhecida como uma abelha-sem-ferrão. Entretanto, a ausência de um ferrão funcional não significa que a colônia não possua mecanismos de defesa. As abelhas podem utilizar diferentes comportamentos para proteger o ninho contra possíveis ameaças ([A.B.E.L.H.A., 2021](https://abelha.org.br/tetragonisca-angustula/)).
+A Jataí destaca-se por sua capacidade de adaptação a diferentes ambientes e por poder estabelecer suas colônias em cavidades naturais e artificiais. Por não possuir um ferrão funcional, é classificada como uma abelha-sem-ferrão, característica que também contribui para seu interesse na criação racional e na meliponicultura. Entretanto, a ausência de ferrão não significa ausência de mecanismos de defesa, pois as colônias apresentam comportamentos de proteção contra possíveis ameaças.
 
-![Tetragonisca angustula](https://commons.wikimedia.org/wiki/Special\:Redirect/file/Tetragonisca_angustula%20\(Bahia%2C%20Brasil\).jpg)
+Segundo a Associação Brasileira de Estudos das Abelhas (A.B.E.L.H.A.), a *Tetragonisca angustula* é uma das espécies de abelhas-sem-ferrão de grande importância para a meliponicultura, sendo criada tanto para a produção de seus derivados quanto pelo serviço de polinização que realiza.
 
-A espécie possui grande capacidade de adaptação e pode construir seus ninhos em **cavidades naturais**, principalmente em árvores, mas também pode ocupar cavidades presentes em construções e outros locais protegidos. Segundo a **Embrapa**, a Jataí apresenta facilidade de adaptação a ambientes urbanos e rurais, podendo utilizar diferentes estruturas para estabelecer suas colônias ([Embrapa, 2018](https://www.embrapa.br/documents/1355163/39571288/2018_Pr%C3%A1tica%2B1_Informa%C3%A7%C3%B5es%2BNinhos_final.pdf.pdf/77b50086-30a0-3e8f-36d0-6436fd564229)).
+![Tetragonisca angustula](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tetragonisca_angustula%20(Bahia%2C%20Brasil).jpg)
 
-![Entrada do ninho da Jataí](https://commons.wikimedia.org/wiki/Special\:Redirect/file/Tetragonisca%20angustula%20nest%20entrance.jpg)
+### 🐝 Características da espécie
 
-A **entrada do ninho** é uma das características mais interessantes da Jataí. As abelhas utilizam materiais produzidos pela própria colônia, como o **cerume**, para construir estruturas que auxiliam na proteção e no controle de acesso ao ninho. Próximo à entrada podem permanecer abelhas responsáveis pela defesa da colônia. No interior, são encontrados potes utilizados para armazenar recursos alimentares, como **mel e pólen** ([USP, 2026](https://sites.usp.br/jardimdabotanicausprp/jatai-tetragonisca-angustula/)).
+A Jataí possui pequeno tamanho e apresenta coloração característica, com regiões do corpo em tons escuros e amarelados. As operárias realizam diferentes atividades dentro e fora da colônia, incluindo a coleta de néctar, pólen e água, além da construção e manutenção do ninho.
 
-A colônia de Jataí apresenta uma organização social complexa. Ela é constituída por indivíduos com diferentes funções, incluindo **rainha, operárias e machos**. As operárias desempenham diversas atividades fundamentais para a sobrevivência da colônia, como coleta de néctar, pólen e água, construção e manutenção do ninho, alimentação das crias e proteção da colônia. De acordo com a Embrapa, uma colônia de Jataí pode apresentar aproximadamente **2.000 a 5.000 indivíduos**, embora esse número possa variar conforme as condições ambientais e o desenvolvimento da colônia ([Embrapa, 2018](https://www.embrapa.br/documents/1355163/39571288/2018_Pr%C3%A1tica%2B1_Informa%C3%A7%C3%B5es%2BNinhos_final.pdf.pdf/77b50086-30a0-3e8f-36d0-6436fd564229)).
+De acordo com a Universidade de São Paulo (USP), as operárias também participam da construção de estruturas destinadas ao armazenamento de alimentos e à criação das novas abelhas. O comportamento social da espécie permite que diferentes indivíduos desempenhem funções necessárias para a manutenção da colônia.
 
-![Colônia de abelhas Jataí](https://commons.wikimedia.org/wiki/Special\:Redirect/file/Tetragonisca_angustula.JPG)
+Uma característica importante da Jataí é sua capacidade de construir ninhos em locais protegidos. Na natureza, esses ninhos podem ser encontrados principalmente em cavidades de árvores, mas a espécie também pode ocupar cavidades existentes em estruturas construídas pelo ser humano.
 
-Além de produzir **mel, própolis e cerume**, a Jataí possui importante função ecológica por participar da **polinização de diversas espécies vegetais**. As abelhas visitam flores em busca de néctar e pólen, transportando grãos de pólen entre diferentes flores durante o processo de forrageamento. Dessa maneira, contribuem para a reprodução de plantas e para a manutenção da biodiversidade. Estudos sobre *Tetragonisca angustula* demonstram a diversidade de plantas utilizadas pela espécie como fonte de recursos ([Macêdo et al., 2023](https://pubmed.ncbi.nlm.nih.gov/37985410/)).
+### 🏠 Ninho e entrada da colônia
 
-![Abelha Jataí visitando uma flor](https://commons.wikimedia.org/wiki/Special\:Redirect/file/Tetragonisca_angustula%20\(Bahia%2C%20Brasil\).jpg)
+A entrada do ninho é uma das características mais facilmente observadas da Jataí. As abelhas constroem uma estrutura tubular utilizando materiais produzidos e coletados pela própria colônia, formando uma passagem que permite controlar o acesso ao interior do ninho.
 
-A Jataí também apresenta grande importância para a **meliponicultura**, atividade destinada à criação racional de abelhas nativas sem ferrão. A criação dessas abelhas pode contribuir para a produção de seus derivados, para a polinização de culturas agrícolas, para a educação ambiental e para a conservação das espécies nativas. A A.B.E.L.H.A. destaca o potencial da Jataí para utilização em sistemas de criação e também sua importância como polinizadora ([A.B.E.L.H.A., 2021](https://abelha.org.br/tetragonisca-angustula/)).
+![Entrada do ninho da Jataí](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tetragonisca%20angustula%20nest%20entrance.jpg)
 
-A importância da Jataí ultrapassa a produção de mel. Por ser uma espécie adaptável e de grande relevância ecológica, ela pode ser utilizada em projetos relacionados à **conservação ambiental, agricultura, educação, engenharia, eletrônica, automação e tecnologia**. O desenvolvimento de caixas adequadas, sistemas de monitoramento e ferramentas para acompanhamento das condições internas das colônias pode contribuir para melhorar o conhecimento e o manejo dessas abelhas.
+A entrada também possui função de proteção. Abelhas podem permanecer próximas à abertura atuando como guardas da colônia. Quando existe uma ameaça, essas abelhas podem reagir para proteger o interior do ninho.
 
-Dessa forma, estudar a *Tetragonisca angustula* permite compreender não apenas sua **biologia e comportamento**, mas também desenvolver soluções tecnológicas voltadas à sua criação e conservação. Neste projeto, o estudo da Jataí será utilizado como base para o desenvolvimento de **projetos de casas para abelhas, modelos tridimensionais, desenhos técnicos, sistemas eletrônicos de monitoramento e ferramentas computacionais**, buscando unir conhecimentos de biologia, engenharia, eletrônica e programação.
+A Embrapa destaca a capacidade da Jataí de utilizar diferentes cavidades para a construção de seus ninhos e sua adaptação tanto a ambientes rurais quanto urbanos. Essa característica é especialmente relevante para projetos de meliponicultura, pois permite o desenvolvimento de caixas e estruturas artificiais destinadas ao alojamento das colônias.
+
+### 🐝 Organização da colônia
+
+A colônia da Jataí apresenta uma organização social composta por diferentes castas e indivíduos, principalmente **rainha, operárias e machos**. Cada grupo possui funções relacionadas à reprodução e à manutenção da colônia.
+
+As operárias realizam grande parte das atividades necessárias para a sobrevivência da comunidade. Entre essas atividades estão o forrageamento, a coleta de água, a obtenção de pólen e néctar, a construção do ninho, a alimentação das crias, a limpeza e a defesa da colônia.
+
+O interior do ninho apresenta estruturas produzidas principalmente a partir de cerume e outros materiais coletados pelas abelhas. Essas estruturas são utilizadas para a criação das novas abelhas e para o armazenamento dos recursos alimentares.
+
+![Ninho de Tetragonisca angustula](https://commons.wikimedia.org/wiki/Special:Redirect/file/Stingless%20bees%20nest%20(70581).jpg)
+
+O conhecimento da organização interna da colônia é importante para a criação racional da Jataí. A compreensão dessas estruturas permite desenvolver caixas que ofereçam condições adequadas para o desenvolvimento da colônia e, ao mesmo tempo, possibilitem a realização de inspeções e pesquisas sem causar danos desnecessários às abelhas.
+
+### 🌱 Alimentação e polinização
+
+As abelhas Jataí realizam atividades de **forrageamento**, visitando flores em busca principalmente de néctar e pólen. Durante essas visitas, os grãos de pólen podem ser transportados de uma flor para outra, contribuindo para o processo de polinização.
+
+![Jataí visitando uma flor](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jata%C3%AD-amarela%20(Tetragonisca%20angustula)%20(48595802066).jpg)
+
+A polinização realizada pelas abelhas possui grande importância ecológica e agrícola. A visitação das flores contribui para a reprodução de diversas espécies vegetais e para a manutenção da biodiversidade. Estudos sobre *Tetragonisca angustula* demonstram a utilização de diferentes espécies de plantas como fontes de recursos alimentares (Macêdo et al., 2023).
+
+Além da importância ecológica, essa característica faz com que a Jataí seja considerada uma espécie de interesse para sistemas agrícolas que dependem da polinização. A criação racional de abelhas-sem-ferrão pode, portanto, estar relacionada tanto à conservação ambiental quanto ao desenvolvimento de sistemas de produção agrícola.
+
+### 🍯 Meliponicultura
+
+A criação de abelhas nativas sem ferrão é denominada **meliponicultura**. A Jataí possui grande importância nessa atividade devido às suas características biológicas, ao seu tamanho reduzido, à ausência de ferrão funcional e à capacidade de adaptação a diferentes ambientes.
+
+A criação racional pode permitir o acompanhamento das colônias, o estudo do comportamento das abelhas e o aproveitamento de produtos como **mel, própolis e cerume**. Entretanto, o manejo deve considerar as necessidades biológicas da espécie e buscar evitar práticas que possam prejudicar a colônia.
+
+A utilização de caixas especialmente desenvolvidas para a espécie também permite a realização de projetos de engenharia e tecnologia. Sistemas de monitoramento podem ser utilizados para acompanhar variáveis ambientais e estudar as condições internas da colônia.
+
+### 🔬 Tecnologia e monitoramento
+
+O estudo da Jataí também pode ser integrado a diferentes áreas tecnológicas. Sensores, microcontroladores, sistemas de aquisição de dados e softwares podem ser utilizados para desenvolver ferramentas de **monitoramento de colônias**.
+
+Projetos dessa natureza podem buscar acompanhar fatores como temperatura, umidade e atividade da colônia, permitindo a obtenção de dados para estudos e pesquisas. A utilização de tecnologia deve, entretanto, priorizar a segurança e o bem-estar das abelhas.
+
+Dessa forma, o estudo da *Tetragonisca angustula* permite integrar conhecimentos de **biologia, ecologia, agricultura, engenharia, eletrônica, programação, automação e modelagem tridimensional**.
+
+Neste projeto, esses conhecimentos serão utilizados como base para o desenvolvimento de **casas para abelhas Jataí, projetos estruturais, modelos tridimensionais, desenhos técnicos, sistemas eletrônicos de monitoramento e ferramentas computacionais**, buscando desenvolver soluções que possam contribuir para o estudo, manejo e conservação da espécie.
 
 ---
 
 # 📚 Referências Bibliográficas
 
-### A.B.E.L.H.A.
+**A.B.E.L.H.A. — Associação Brasileira de Estudos das Abelhas.**  
+*Tetragonisca angustula*. São Paulo: A.B.E.L.H.A.
 
-**ASSOCIAÇÃO BRASILEIRA DE ESTUDOS DAS ABELHAS — A.B.E.L.H.A.** *Tetragonisca angustula*. São Paulo: A.B.E.L.H.A., 2021.
-
-🔗 https://abelha.org.br/tetragonisca-angustula/
-
----
-
-### EMBRAPA
-
-**EMBRAPA — Empresa Brasileira de Pesquisa Agropecuária.** *II Curso sobre Biologia e Manejo de Meliponíneos para Polinização de Plantas de Interesse Agrícola*. Embrapa Recursos Genéticos e Biotecnologia, 2018.
-
-🔗 https://www.embrapa.br/documents/1355163/39571288/2018_Pr%C3%A1tica%2B1_Informa%C3%A7%C3%B5es%2BNinhos_final.pdf.pdf/77b50086-30a0-3e8f-36d0-6436fd564229
+Link:  
+https://abelha.org.br/tetragonisca-angustula/
 
 ---
 
-### EMBRAPA — Abelha Jataí
+**EMBRAPA — Empresa Brasileira de Pesquisa Agropecuária.**  
+*II Curso sobre Biologia e Manejo de Meliponíneos para Polinização de Plantas de Interesse Agrícola*. Embrapa Recursos Genéticos e Biotecnologia.
 
-**EMBRAPA — Empresa Brasileira de Pesquisa Agropecuária.** *Abelha melípona Jataí*. 2025.
-
-🔗 https://www.embrapa.br/en/busca-de-imagens/-/midia/7142001/abelha-melipona-jatai
-
----
-
-### USP
-
-**UNIVERSIDADE DE SÃO PAULO — USP.** *Jataí — Tetragonisca angustula*. Jardim Botânico da USP.
-
-🔗 https://sites.usp.br/jardimdabotanicausprp/jatai-tetragonisca-angustula/
+Link:  
+https://www.embrapa.br/documents/1355163/39571288/2018_Pr%C3%A1tica%2B1_Informa%C3%A7%C3%B5es%2BNinhos_final.pdf.pdf/77b50086-30a0-3e8f-36d0-6436fd564229
 
 ---
 
-### MACÊDO et al.
+**MACÊDO, N. S. et al.**  
+Floral visitation, phytochemical and biological activities of bioproducts from *Tetragonisca angustula* (Hymenoptera, Apidae, Meliponini): a review. *Chemistry & Biodiversity*, 2023.
 
-**MACÊDO, N. S. et al.** Floral visitation, phytochemical and biological activities of bioproducts from *Tetragonisca angustula* (Hymenoptera, Apidae, Meliponini): a review. *Chemistry & Biodiversity*, 2023.
-
-🔗 https://pubmed.ncbi.nlm.nih.gov/37985410/
-
----
-
-### NCBI
-
-**NATIONAL CENTER FOR BIOTECHNOLOGY INFORMATION — NCBI.** *Tetragonisca angustula — Taxonomy Browser*. National Library of Medicine.
-
-🔗 https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=166442
+Link:  
+https://pubmed.ncbi.nlm.nih.gov/37985410/
 
 ---
 
-# 🖼️ Créditos e fontes das imagens
+**NCBI — National Center for Biotechnology Information.**  
+*Tetragonisca angustula — Taxonomy Browser*. National Library of Medicine.
 
-As imagens utilizadas neste README foram obtidas do **Wikimedia Commons**. Consulte as páginas originais para verificar o autor, a licença e as condições específicas de reutilização.
+Link:  
+https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=166442
 
-### Imagem 1 — Abelha Jataí
+---
 
-```markdown
-![Abelha Jataí](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tetragonisca%20angustula.JPG)
-```
+**UNIVERSIDADE DE SÃO PAULO — USP.**  
+*Jataí — Tetragonisca angustula*. Jardim Botânico da Universidade de São Paulo.
 
-🔗 Página da imagem:
+Link:  
+https://sites.usp.br/jardimdabotanicausprp/jatai-tetragonisca-angustula/
+
+---
+
+# 🖼️ Fontes e créditos das imagens
+
+## Figura 1 — Abelha Jataí
+
+**Arquivo:** Tetragonisca angustula.JPG  
+**Autor:** Bibafu  
+**Licença:** Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)
+
+Markdown utilizado:
+
+![Abelha Jataí](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tetragonisca_angustula.JPG)
+
+Página para baixar:
+
 https://commons.wikimedia.org/wiki/File:Tetragonisca_angustula.JPG
 
 ---
 
-### Imagem 2 — Jataí no Brasil
+## Figura 2 — Tetragonisca angustula no Brasil
 
-```markdown
+**Arquivo:** Tetragonisca angustula (Bahia, Brasil).jpg
+
+Markdown utilizado:
+
 ![Tetragonisca angustula](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tetragonisca_angustula%20(Bahia%2C%20Brasil).jpg)
-```
 
-🔗 Página da imagem:
+Página para baixar:
+
 https://commons.wikimedia.org/wiki/File:Tetragonisca_angustula_(Bahia,_Brasil).jpg
 
 ---
 
-### Imagem 3 — Entrada do ninho
+## Figura 3 — Entrada do ninho
 
-```markdown
+**Arquivo:** Tetragonisca angustula nest entrance.jpg  
+**Autor:** Sintropepe  
+**Licença:** Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+
+Markdown utilizado:
+
 ![Entrada do ninho da Jataí](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tetragonisca%20angustula%20nest%20entrance.jpg)
-```
 
-🔗 Fonte e outras imagens da espécie:
-https://commons.wikimedia.org/wiki/Category:Tetragonisca_angustula
+Página para baixar:
+
+https://commons.wikimedia.org/wiki/File:Tetragonisca_angustula_nest_entrance.jpg
 
 ---
 
-## 📌 Observação
+## Figura 4 — Ninho da Tetragonisca angustula
 
-As imagens devem permanecer acompanhadas de seus respectivos créditos e respeitar a licença indicada pelo autor na página original. Para este projeto, recomenda-se registrar junto a cada imagem **autor, fonte e licença**, especialmente se o material for posteriormente utilizado fora do GitHub.
+**Arquivo:** Stingless bees nest (70581).jpg  
+**Autor:** Rhododendrites
+
+Markdown utilizado:
+
+![Ninho de Tetragonisca angustula](https://commons.wikimedia.org/wiki/Special:Redirect/file/Stingless%20bees%20nest%20(70581).jpg)
+
+Página para baixar:
+
+https://commons.wikimedia.org/wiki/File:Stingless_bees_nest_(70581).jpg
+
+---
+
+## Figura 5 — Jataí visitando uma flor
+
+**Arquivo:** Jataí-amarela (Tetragonisca angustula) (48595802066).jpg
+
+Markdown utilizado:
+
+![Jataí visitando uma flor](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jata%C3%AD-amarela%20(Tetragonisca%20angustula)%20(48595802066).jpg)
+
+Página para baixar:
+
+https://commons.wikimedia.org/wiki/File:Jata%C3%AD-amarela_(Tetragonisca_angustula)_(48595802066).jpg
+
+---
+
+## 📌 Licenciamento das imagens
+
+As imagens utilizadas devem permanecer acompanhadas das informações de autoria e licença indicadas em suas respectivas páginas do Wikimedia Commons. Antes de redistribuir ou modificar qualquer fotografia, consulte a licença específica do arquivo.
+
+Fonte geral das imagens:
+
+https://commons.wikimedia.org/wiki/Category:Tetragonisca_angustula
